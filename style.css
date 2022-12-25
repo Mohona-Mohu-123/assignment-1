@@ -1,0 +1,134 @@
+body{
+    font-family: 'Chivo Mono', monospace;
+    
+
+}
+.section-area{
+    margin: 40px;
+}
+h1{
+    font-size: 40px;
+}
+.crimson{
+    color: crimson;
+}
+.header{
+    display: flex;
+  
+}
+.half-width{
+    width: 50%;
+}
+.half-width p{
+    font-size: 20px;
+}
+.half-width img{
+    height: 400px;
+    /* margin-left: 14%; */
+}
+.button{
+    text-decoration: none;
+    background-color:cornflowerblue;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+}
+.border{
+    border-left: 4px solid;
+    border-image:linear-gradient(crimson, brown);
+    border-image-slice: 1;
+    margin-right: 10px;
+}
+.border h1{
+    margin-left: 10px;
+}
+.div-area{
+    display: flex;
+}
+.section-2 h1{
+    text-align: center;
+}
+.mission img{
+    height: 150px;
+}
+.mission{
+    background-color:rgb(248, 222, 222);
+    width:32%;
+    padding: 14px;
+    border-radius: 8px;
+    /* padding-left: 20px; */
+    margin-right: 2%;
+}
+.learning img{
+    height: 150px;
+}
+.learning{
+    background-color:rgb(212, 225, 251);
+    width:32%;
+    padding: 14px;
+    border-radius: 8px;
+    /* padding-left: 20px; */
+}
+.goals img{
+    height: 150px;
+}
+.goals{
+    background-color:rgb(205, 239, 240);
+    width:32%;
+    padding: 14px;
+    border-radius: 8px;
+    margin-left: 2%;
+    /* padding-left: 20px; */
+}
+.section-3{
+    margin-top: 100px;
+    display: flex;
+}
+.image img{
+    width: 100%;
+    border-radius: 8px;
+
+}
+.Limits{
+    margin-left: 5%;
+    margin-top: -3%;
+}
+.Global{
+    margin-right: 5%;
+    margin-top: -3%;
+}
+.web-area{
+    display: flex;
+}
+.section-4 h1{
+    text-align: center;
+}
+.section-4{
+    margin-top: 100px;
+}
+.web-area img{
+    margin-left: 10%;
+}
+.content{
+    margin-left: -8%;
+    margin-top: 4%;
+}
+.brown{
+    color: rgb(95, 2, 2);
+}
+.footer{
+    background-color:rgb(74, 49, 54);
+    text-align: center;
+    padding: 20px;
+    margin-top: 4%;
+    color: white;
+    
+}
+.footer h1{
+    font-size: 30px;
+   
+}
+.footer p{
+    font-size: 16px;
+}
